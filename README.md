@@ -11,3 +11,9 @@ Para executar os notebooks siga os passos abaixo.
 
 ## **Execução**
 Posteriormente os notebooks podem ser executados em ordem sequencial.
+
+
+## Dataset
+O dataset é formado por 10 documentos do conjunto de dados CSTNews. O conjunto de dados completo pode ser acessado em :https://sites.icmc.usp.br/taspardo/sucinto/files/CSTNews%206.0.zip.
+
+ALEIXO, Priscila; PARDO, Thiago Alexandre Salgueiro. CSTNews: um córpus de textos jornalísticos anotados segundo a teoria discursiva multidocumento CST (Cross-document Structure Theory. 2008.
