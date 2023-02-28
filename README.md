@@ -30,6 +30,6 @@ https://medium.com/machina-sapiens/google-colab-guia-do-iniciante-334d70aad531
 
 **Documentação oficial:**
 https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.01-Help-And-Documentation.ipynb
-
+ 
 **Características :**
 https://colab.research.google.com/notebooks/basic_features_overview.ipynb
