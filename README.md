@@ -7,7 +7,7 @@ Notebooks das atividades práticas da disciplina de Tópicos Especiais em Comput
 Para executar os notebooks siga os passos abaixo.
 1. Crie a pasta **"Colab Notebooks"** na raiz do seu google drive para receber a pasta do projeto. Outros projetos utilizando Notebooks podem ser criados no mesmo diretório.
 2. Dentro da pasta **"Colab Notebooks"** crie a pasta **"SRI"** para armazenar e executar os notebooks das atividades práticas da disciplina.
-3. Dentro da pasta **"SRI"** crie a pasta **"data"** e coloque o arquivo de dados **"documentos.csv"**.
+3. Dentro da pasta **"SRI"** crie a pasta **"data"** e coloque o arquivo de dados [**documentos.csv**](https://github.com/osmarbraz/sri/blob/main/data/documentos.csv).
 
 ## **Execução**
 Posteriormente os notebooks podem ser executados em ordem sequencial.
