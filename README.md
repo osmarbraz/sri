@@ -20,8 +20,8 @@ Posteriormente os notebooks podem ser executados em ordem sequencial.
 5. [**Embeddings_Word2Vec_Gensim_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/5_Embeddings_Word2Vec_Gensim_v1.ipynb) - Examinando embeddings de palavras gerados com Word2Vec.
 6. [**Embeddings_BERT_Huggingface_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/6_Embeddings_BERT_Huggingface_v1.ipynb) - Examinando embeddings de palavras e sentenças gerados com BERT.
 
-## Dataset
-O dataset pelos notebooks é formado por 20 documentos extraído do conjunto de dados CSTNews. 
+## Conjunto de dados
+O conjunto de dados utilizado pelos notebooks é formado por 20 documentos extraído do conjunto de dados CSTNews. 
 
 * [**documentos.csv**](https://github.com/osmarbraz/sri/blob/main/data/documentos.csv)
 
