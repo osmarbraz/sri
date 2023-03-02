@@ -16,8 +16,9 @@ Posteriormente os notebooks podem ser executados em ordem sequencial.
 1. **Segmentacao_Limpeza_v1.ipynb** - Realiza a limpeza e segmentação dos documentos.
 2. **GerarPOS_v1.ipynb** - Gera as PoSTagging do documento utilizando o spaCy.
 3. **AnaliseDados_v1.ipynb** - Realiza análises estatísticas dos documentos.
-4. **Embeddings_Word2Vec_Gensim_v1.ipynb** - Examinando embeddings de palavras gerados com Word2Vec.
-5. **Embeddings_BERT_Huggingface_v1.ipynb** - Examinando embeddings de palavras e sentenças gerados com BERT.
+4. **NER_spaCy_v1.ipynb** - Realiza reconhecimento de entidades nomeadas em textos.
+5. **Embeddings_Word2Vec_Gensim_v1.ipynb** - Examinando embeddings de palavras gerados com Word2Vec.
+6. **Embeddings_BERT_Huggingface_v1.ipynb** - Examinando embeddings de palavras e sentenças gerados com BERT.
 
 ## Dataset
 O dataset é formado por 20 documentos do conjunto de dados CSTNews. O conjunto de dados completo pode ser acessado em :https://sites.icmc.usp.br/taspardo/sucinto/files/CSTNews%206.0.zip.
