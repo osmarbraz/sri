@@ -23,7 +23,7 @@ Posteriormente os notebooks podem ser executados em ordem sequencial.
 ## Dataset
 O dataset pelos notebooks é formado por 20 documentos extraído do conjunto de dados CSTNews. 
 
-[**documentos.csv**](https://github.com/osmarbraz/sri/blob/main/data/documentos.csv)
+* [**documentos.csv**](https://github.com/osmarbraz/sri/blob/main/data/documentos.csv)
 
 O conjunto de dados **completo CSTNews** pode ser acessado em :https://sites.icmc.usp.br/taspardo/sucinto/files/CSTNews%206.0.zip. 
 
