@@ -17,8 +17,9 @@ Posteriormente os notebooks podem ser executados em ordem sequencial.
 2. [**GerarPOS_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/2_GerarPOS_v1.ipynb) - Gera as PoSTagging do documento utilizando o spaCy.
 3. [**AnaliseDados_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_AnaliseDados_v1.ipynb) - Realiza análises estatísticas dos documentos.
 4. [**NER_spaCy_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/4_NER_spaCy_v1.ipynb) - Realiza reconhecimento de entidades nomeadas em textos.
-5. [**Embeddings_Word2Vec_Gensim_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/5_Embeddings_Word2Vec_Gensim_v1.ipynb) - Examinando embeddings de palavras gerados com Word2Vec.
-6. [**Embeddings_BERT_Huggingface_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/6_Embeddings_BERT_Huggingface_v1.ipynb) - Examinando embeddings de palavras e sentenças gerados com BERT.
+5. Embeddings
+5.1. [**Embeddings_Word2Vec_Gensim_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/5_1_Embeddings_Word2Vec_Gensim_v1.ipynb) - Examinando embeddings de palavras gerados com Word2Vec.
+5.2. [**Embeddings_BERT_Huggingface_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/5_2_Embeddings_BERT_Huggingface_v1.ipynb) - Examinando embeddings de palavras e sentenças gerados com BERT.
 
 [Apresentação do fluxo de uso dos notebooks.](https://docs.google.com/presentation/d/1W5TRri89JVVyQVGz9IOeQIa9jk186w4c/edit#slide=id.gf4978a6ef2_0_24)
 
