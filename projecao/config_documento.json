@@ -17,7 +17,7 @@
       "tensorShape": [20, 3072],
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/sri/main/projecao/documento/records_documento_3072_base_MEAN.tsv",
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/sri/main/projecao/documento/meta_documento_3072_base_MEAN.tsv"
-    },
+    }
   ],
   "modelCheckpointPath": "<b>Embeddings de Documento"
 }
