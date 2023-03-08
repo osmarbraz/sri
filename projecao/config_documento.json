@@ -3,20 +3,20 @@
     {
       "tensorName": "Embedding [CLS]",
       "tensorShape": [20, 768],
-      "tensorPath": "https://github.com/osmarbraz/sri/blob/main/projecao/documento/records_documento_768_base_CLS.tsv",
-      "metadataPath": "https://github.com/osmarbraz/sri/blob/main/projecao/documento/meta_documento_768_base_CLS.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/sri/main/projecao/documento/records_documento_768_base_CLS.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/sri/main/projecao/documento/meta_documento_768_base_CLS.tsv"
     },
 	{
       "tensorName": "Embeddings última camada",
       "tensorShape": [20, 768],
-      "tensorPath": "https://github.com/osmarbraz/sri/blob/main/projecao/documento/records_documento_768_base_MEAN.tsv",
-      "metadataPath": "https://github.com/osmarbraz/sri/blob/main/projecao/documento/meta_documento_768_base_MEAN.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/sri/main/projecao/documento/records_documento_768_base_MEAN.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/sri/main/projecao/documento/meta_documento_768_base_MEAN.tsv"
     },
 	{
       "tensorName": "Embeddings concat 4 últimas camadas",
       "tensorShape": [20, 3072],
-      "tensorPath": "https://github.com/osmarbraz/sri/blob/main/projecao/documento/records_documento_3072_base_MEAN.tsv",
-      "metadataPath": "https://github.com/osmarbraz/sri/blob/main/projecao/documento/meta_documento_3072_base_MEAN.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/sri/main/projecao/documento/records_documento_3072_base_MEAN.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/sri/main/projecao/documento/meta_documento_3072_base_MEAN.tsv"
     },
   ],
   "modelCheckpointPath": "<b>Embeddings de Documento"
