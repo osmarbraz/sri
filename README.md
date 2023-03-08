@@ -30,7 +30,7 @@ Posteriormente os notebooks podem ser executados em ordem sequencial.
 
 ## Projeções de embeddings
 
-**Links** para os arquivos de configuração do projetor de embeddings (*Embedding Projector*):
+**Links** para os arquivos de configuração das projeções de embeddings no *Embedding Projector*:
 
 - **Documentos:** *config_documento.json*: 
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/sri/main/projecao/config_documento.json
