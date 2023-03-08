@@ -33,7 +33,7 @@ Posteriormente os notebooks podem ser executados em ordem sequencial.
 **Links** para os arquivos de configuração do projetor de embeddings (*Embedding Projector*):
 
 - **Documentos:** *config_documento.json*: 
-https://projector.tensorflow.org/?config=https://github.com/osmarbraz/sri/blob/main/projecao/config_documento.json
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/sri/main/projecao/config_documento.json
 
 ## Conjunto de dados
 O conjunto de dados utilizado pelos notebooks é formado por 20 documentos extraído do conjunto de dados CSTNews. 
