@@ -28,6 +28,13 @@ Posteriormente os notebooks podem ser executados em ordem sequencial.
 
 [Apresentação do fluxo de uso dos notebooks.](https://docs.google.com/presentation/d/1W5TRri89JVVyQVGz9IOeQIa9jk186w4c/edit#slide=id.gf4978a6ef2_0_24)
 
+## Projeções de embeddings
+
+**Links** para os arquivos de configuração do projetor de embeddings (*Embedding Projector*):
+
+- **Documentos:** *config_documento.json*: 
+https://projector.tensorflow.org/?config=https://github.com/osmarbraz/sri/blob/main/projecao/config_documento.json
+
 ## Conjunto de dados
 O conjunto de dados utilizado pelos notebooks é formado por 20 documentos extraído do conjunto de dados CSTNews. 
 
