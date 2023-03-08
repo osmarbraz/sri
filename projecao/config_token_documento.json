@@ -1,0 +1,18 @@
+{
+  "embeddings": [    	
+	{
+      "tensorName": "Pooling última camada",
+      "tensorShape": [2728, 768],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/sri/main/projecao/token_documento/DOALL_records_token_documento_768_base_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/sri/main/projecao/token_documento/DOALL_meta_token_documento_768_base_POOL.tsv"
+    },
+	{
+      "tensorName": "Pooling última camada com next",
+      "tensorShape": [2728, 768],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/sri/main/projecao/token_documento/DOALL_records_token_documento_768_base_POOL_next.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/sri/main/projecao/token_documento/DOALL_meta_token_documento_768_base_POOL_next.tsv"
+    }
+  ],
+  "modelCheckpointPath": "<b>Embeddings de tokens e documentos"
+}
+
