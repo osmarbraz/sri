@@ -15,8 +15,11 @@ Posteriormente os notebooks podem ser executados em ordem sequencial.
 ## Notebooks
 
 1.1. [**Segmentacao_Limpeza_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/1_1_Segmentacao_Limpeza_v1.ipynb) - Realiza a limpeza e segmentação dos documentos.
+
 1.2. [**GerarPOS_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/1_2_GerarPOS_v1.ipynb) - Gera as PoSTagging do documento utilizando o spaCy.
+
 1.3. [**NER_spaCy_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/1_3_NER_spaCy_v1.ipynb) - Realiza reconhecimento de entidades nomeadas em textos.
+
 2.1. [**AnaliseDados_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/2_1_AnaliseDados_v1.ipynb) - Realiza análises estatísticas dos documentos.
 
 3. Embeddings
