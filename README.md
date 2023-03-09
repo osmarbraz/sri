@@ -20,7 +20,7 @@ Posteriormente os notebooks podem ser executados em ordem sequencial.
 	- 1.3. [**NER_spaCy_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/1_3_NER_spaCy_v1.ipynb) - Realiza reconhecimento de entidades nomeadas em textos.
 
 2. Análise 
-	- 2.1. [**AnaliseDados_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/2_1_AnaliseDados_v1.ipynb) - Realiza análises estatísticas dos documentos.
+	- 2.1. [**AnaliseDados_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/2_1_AnaliseDados_v1.ipynb) - Gera gráficos e tabelas com distribuições de dados.
 
 3. Embeddings
 	- 3.1. [**Embeddings_Word2Vec_Gensim_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_1_Embeddings_Word2Vec_Gensim_v1.ipynb) - Examinando embeddings de palavras gerados com Word2Vec.
