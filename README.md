@@ -9,7 +9,7 @@ Para executar os notebooks siga os passos abaixo.
 2. Dentro da pasta **"Colab Notebooks"** crie a pasta **"SRI"** para armazenar e executar os notebooks das atividades práticas da disciplina.
 3. Dentro da pasta **"SRI"** crie a pasta **"data"** e coloque o arquivo de dados [**documentos.csv**](https://github.com/osmarbraz/sri/blob/main/data/documentos.csv). Este arquivo é o conjunto de dados utilizados na prática.
 
-## **Execução**
+## **Instruções iniciais**
 Posteriormente os notebooks podem ser executados em ordem sequencial.
 
 ## Notebooks
