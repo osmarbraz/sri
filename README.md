@@ -23,8 +23,8 @@ Posteriormente os notebooks podem ser executados em ordem sequencial.
 	- 2.1. [**AnaliseDados_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/2_1_AnaliseDados_v1.ipynb) - Gera gráficos e tabelas com distribuições de dados.
 
 3. **Embeddings**
-	- 3.1. [**Embeddings_Word2Vec_Gensim_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_1_Embeddings_Word2Vec_Gensim_v1.ipynb) - Examinando embeddings de palavras gerados com Word2Vec.
-	- 3.2. [**Embeddings_BERT_Huggingface_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_2_Embeddings_BERT_Huggingface_v1.ipynb) - Examinando embeddings de palavras e sentenças gerados com o BERT.
+	- 3.1. [**Embeddings_Word2Vec_Gensim_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_1_Embeddings_Word2Vec_Gensim_v1.ipynb) - Examinando embeddings estáticos de palavras gerados com Word2Vec.
+	- 3.2. [**Embeddings_BERT_Huggingface_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_2_Embeddings_BERT_Huggingface_v1.ipynb) - Examinando embeddings contextualizados de palavras e sentenças gerados com o BERT.
 	
 		- 3.2.1. [**GerarArquivosProjecaoEmbeddingsDocumento_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_2_1_GerarArquivosProjecaoEmbeddingsDocumento_v1.ipynb) - Gerando embeddings de documento com o BERT para o Embedding Projector.		
 		- 3.2.2. [**GerarArquivosProjecaoEmbeddingsToken_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_2_2_GerarArquivosProjecaoEmbeddingsToken_v1.ipynb) - Gerando embeddings de tokens com o BERT para o Embedding Projector.		
