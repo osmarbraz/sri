@@ -32,13 +32,13 @@ Posteriormente os notebooks podem ser executados em ordem sequencial.
 	
 	3.2. [**Embeddings_BERT_Huggingface_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_2_Embeddings_BERT_Huggingface_v1.ipynb) - Examinando embeddings de palavras e sentenças gerados com o BERT.
 	
-		3.2.1. [**GerarArquivosProjecaoEmbeddingsDocumento_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_2_1_GerarArquivosProjecaoEmbeddingsDocumento_v1.ipynb) - Gerando embeddings de documento com o BERT para o Embedding Projector.
+		- 3.2.1. [**GerarArquivosProjecaoEmbeddingsDocumento_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_2_1_GerarArquivosProjecaoEmbeddingsDocumento_v1.ipynb) - Gerando embeddings de documento com o BERT para o Embedding Projector.
 		
-		3.2.2. [**GerarArquivosProjecaoEmbeddingsToken_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_2_2_GerarArquivosProjecaoEmbeddingsToken_v1.ipynb) - Gerando embeddings de tokens com o BERT para o Embedding Projector.
+		- 3.2.2. [**GerarArquivosProjecaoEmbeddingsToken_v1.ipynb**]- (https://github.com/osmarbraz/sri/blob/main/3_2_2_GerarArquivosProjecaoEmbeddingsToken_v1.ipynb) - Gerando embeddings de tokens com o BERT para o Embedding Projector.
 		
-		3.2.3. [**GerarArquivosProjecaoEmbeddingsToken_Documento_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_2_3_GerarArquivosProjecaoEmbeddingsToken_Documento_v1.ipynb) - Gerando embeddings de tokens e documentos com o BERT para o Embedding Projector.
+		- 3.2.3. [**GerarArquivosProjecaoEmbeddingsToken_Documento_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_2_3_GerarArquivosProjecaoEmbeddingsToken_Documento_v1.ipynb) - Gerando embeddings de tokens e documentos com o BERT para o Embedding Projector.
 		
-		3.2.4. [**GerarArquivosProjecaoEmbeddingsSentenca_Documento_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_2_4_GerarArquivosProjecaoEmbeddingsSentenca_Documento_v1.ipynb) - Gerando embeddings de sentenças e documentos com o BERT para o Embedding Projector.
+		- 3.2.4. [**GerarArquivosProjecaoEmbeddingsSentenca_Documento_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_2_4_GerarArquivosProjecaoEmbeddingsSentenca_Documento_v1.ipynb) - Gerando embeddings de sentenças e documentos com o BERT para o Embedding Projector.
 
 [Apresentação do fluxo de uso dos notebooks.](https://docs.google.com/presentation/d/1W5TRri89JVVyQVGz9IOeQIa9jk186w4c/edit#slide=id.gf4978a6ef2_0_24)
 
