@@ -13,18 +13,19 @@ Para executar os notebooks siga os passos abaixo.
 Posteriormente os notebooks podem ser executados em ordem sequencial.
 
 ## Notebooks
-1. [**Segmentacao_Limpeza_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/1_Segmentacao_Limpeza_v1.ipynb) - Realiza a limpeza e segmentação dos documentos.
-2. [**GerarPOS_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/2_GerarPOS_v1.ipynb) - Gera as PoSTagging do documento utilizando o spaCy.
-3. [**NER_spaCy_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_NER_spaCy_v1.ipynb) - Realiza reconhecimento de entidades nomeadas em textos.
-4. [**AnaliseDados_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/4_AnaliseDados_v1.ipynb) - Realiza análises estatísticas dos documentos.
 
-5. Embeddings
-	- 5.1. [**Embeddings_Word2Vec_Gensim_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/5_1_Embeddings_Word2Vec_Gensim_v1.ipynb) - Examinando embeddings de palavras gerados com Word2Vec.
-	- 5.2. [**Embeddings_BERT_Huggingface_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/5_2_Embeddings_BERT_Huggingface_v1.ipynb) - Examinando embeddings de palavras e sentenças gerados com o BERT.
-		- 5.2.1. [**GerarArquivosProjecaoEmbeddingsDocumento_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/5_2_1_GerarArquivosProjecaoEmbeddingsDocumento_v1.ipynb) - Gerando embeddings de documento com o BERT para o Embedding Projector.
-		- 5.2.2. [**GerarArquivosProjecaoEmbeddingsToken_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/5_2_2_GerarArquivosProjecaoEmbeddingsToken_v1.ipynb) - Gerando embeddings de tokens com o BERT para o Embedding Projector.
-		- 5.2.3. [**GerarArquivosProjecaoEmbeddingsToken_Documento_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/5_2_3_GerarArquivosProjecaoEmbeddingsToken_Documento_v1.ipynb) - Gerando embeddings de tokens e documentos com o BERT para o Embedding Projector.
-		- 5.2.4. [**GerarArquivosProjecaoEmbeddingsSentenca_Documento_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/5_2_4_GerarArquivosProjecaoEmbeddingsSentenca_Documento_v1.ipynb) - Gerando embeddings de sentenças e documentos com o BERT para o Embedding Projector.
+1.1. [**Segmentacao_Limpeza_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/1_1_Segmentacao_Limpeza_v1.ipynb) - Realiza a limpeza e segmentação dos documentos.
+1.2. [**GerarPOS_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/1_2_GerarPOS_v1.ipynb) - Gera as PoSTagging do documento utilizando o spaCy.
+1.3. [**NER_spaCy_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/1_3_NER_spaCy_v1.ipynb) - Realiza reconhecimento de entidades nomeadas em textos.
+2.1. [**AnaliseDados_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/2_1_AnaliseDados_v1.ipynb) - Realiza análises estatísticas dos documentos.
+
+3. Embeddings
+	- 3.1. [**Embeddings_Word2Vec_Gensim_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_1_Embeddings_Word2Vec_Gensim_v1.ipynb) - Examinando embeddings de palavras gerados com Word2Vec.
+	- 3.2. [**Embeddings_BERT_Huggingface_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_2_Embeddings_BERT_Huggingface_v1.ipynb) - Examinando embeddings de palavras e sentenças gerados com o BERT.
+		- 3.2.1. [**GerarArquivosProjecaoEmbeddingsDocumento_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_2_1_GerarArquivosProjecaoEmbeddingsDocumento_v1.ipynb) - Gerando embeddings de documento com o BERT para o Embedding Projector.
+		- 3.2.2. [**GerarArquivosProjecaoEmbeddingsToken_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_2_2_GerarArquivosProjecaoEmbeddingsToken_v1.ipynb) - Gerando embeddings de tokens com o BERT para o Embedding Projector.
+		- 3.2.3. [**GerarArquivosProjecaoEmbeddingsToken_Documento_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_2_3_GerarArquivosProjecaoEmbeddingsToken_Documento_v1.ipynb) - Gerando embeddings de tokens e documentos com o BERT para o Embedding Projector.
+		- 3.2.4. [**GerarArquivosProjecaoEmbeddingsSentenca_Documento_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_2_4_GerarArquivosProjecaoEmbeddingsSentenca_Documento_v1.ipynb) - Gerando embeddings de sentenças e documentos com o BERT para o Embedding Projector.
 
 [Apresentação do fluxo de uso dos notebooks.](https://docs.google.com/presentation/d/1W5TRri89JVVyQVGz9IOeQIa9jk186w4c/edit#slide=id.gf4978a6ef2_0_24)
 
