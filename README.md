@@ -2,7 +2,7 @@
 
 Notebooks Colab das atividades práticas da disciplina de Tópicos Especiais em Computação: Semântica e Recuperação de Informação.
 
-## **Instruções iniciais**
+## **Instruções iniciais** 
 
 Para executar os notebooks siga os passos abaixo.
 1. Crie a pasta **"Colab Notebooks"** na raiz do seu google drive para receber a pasta do projeto. Outros projetos utilizando Colab Notebooks podem ser criados na mesma pasta.
