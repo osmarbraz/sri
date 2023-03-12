@@ -13,6 +13,8 @@ Posteriormente os notebooks podem ser executados em ordem sequencial conforme a 
 
 ![Fluxo de execução dos notebooks](fluxo_execucao_notebooks.png)
 
+[Apresentação do fluxo de uso dos notebooks e fluxo geral de manipulação de arquivos no Colab.](https://docs.google.com/presentation/d/1W5TRri89JVVyQVGz9IOeQIa9jk186w4c/edit#slide=id.gf4978a6ef2_0_24)
+
 ## Notebooks
 
 1. **Pré-processamento**
@@ -32,7 +34,6 @@ Posteriormente os notebooks podem ser executados em ordem sequencial conforme a 
 		- 3.2.3. [**GerarArquivosProjecaoEmbeddingsToken_Documento_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_2_3_GerarArquivosProjecaoEmbeddingsToken_Documento_v1.ipynb) - Gerando embeddings de tokens e documentos com o BERT para o Embedding Projector.		
 		- 3.2.4. [**GerarArquivosProjecaoEmbeddingsSentenca_Documento_v1.ipynb**](https://github.com/osmarbraz/sri/blob/main/3_2_4_GerarArquivosProjecaoEmbeddingsSentenca_Documento_v1.ipynb) - Gerando embeddings de sentenças e documentos com o BERT para o Embedding Projector.
 
-[Apresentação do fluxo de uso dos notebooks.](https://docs.google.com/presentation/d/1W5TRri89JVVyQVGz9IOeQIa9jk186w4c/edit#slide=id.gf4978a6ef2_0_24)
 
 ## Projeções de embeddings
 
