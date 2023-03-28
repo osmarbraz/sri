@@ -56,7 +56,7 @@ O conjunto de dados utilizado pelos notebooks é formado por 20 documentos extra
 Clique aqui para acesssar o conjunto de dados completo [**CSTNews**](https://sites.icmc.usp.br/taspardo/sucinto/files/CSTNews%206.0.zip). 
 
 **Referência**
-- ALEIXO, Priscila; PARDO, Thiago Alexandre Salgueiro. CSTNews: um córpus de textos jornalísticos anotados segundo a teoria discursiva multidocumento CST (Cross-document Structure Theory. 2008.
+- ALEIXO, Priscila; PARDO, Thiago Alexandre Salgueiro. CSTNews: um córpus de textos jornalísticos anotados segundo a teoria discursiva multidocumento CST (Cross-document Structure Theory), 2008.
 
 ## Documentação Google Colaboratory
 
